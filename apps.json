@@ -5,7 +5,7 @@
     "category": "Tools",
     "size": "10 MB",
     "rating": 5.0,
-    "iconUrl": "https://raw.githubusercontent.com/android/platform-frameworks-base/master/core/res/res/drawable-mdpi/sym_def_app_icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/GaM1ngN0tDev/NoiosoStore-Apps/main/launcher_icon.png",
     "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoStore-Apps/releases/download/AppsNoioso/LauncherNoioso.zip"
   },
   {
@@ -14,7 +14,7 @@
     "category": "Tools",
     "size": "10 MB",
     "rating": 5.0,
-    "iconUrl": "https://raw.githubusercontent.com/android/platform-frameworks-base/master/core/res/res/drawable-mdpi/sym_def_app_icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/GaM1ngN0tDev/NoiosoStore-Apps/main/share_icon.png",
     "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoStore-Apps/releases/download/AppsNoioso/NoiosoShare.zip"
   }
 ]
