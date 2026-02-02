@@ -1,12 +1,13 @@
 [
   {
     "name": "LauncherNoioso",
-    "packageId": "com.example.noiosolauncher", 
+    "packageId": "com.example.noiosolauncher",
     "category": "Tools",
     "size": "10 MB",
     "rating": 5.0,
     "iconUrl": "https://raw.githubusercontent.com/GaM1ngN0tDev/NoiosoStore-Apps/main/share_icon.png",
-    "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoStore-Apps/releases/download/v1.0/LauncherNoioso.zip"
+    "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoStore-Apps/releases/download/v1.0/LauncherNoioso.zip",
+    "description": "Your launcher description"
   },
   {
     "name": "NoiosoShare",
@@ -15,6 +16,7 @@
     "size": "10 MB",
     "rating": 5.0,
     "iconUrl": "https://raw.githubusercontent.com/GaM1ngN0tDev/NoiosoStore-Apps/main/share_icon.png",
-    "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoStore-Apps/releases/download/v1.0/NoiosoShare.zip"
+    "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoStore-Apps/releases/download/v1.0/NoiosoShare.zip",
+    "description": "Your share description"
   }
 ]
