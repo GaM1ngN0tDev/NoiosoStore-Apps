@@ -1,7 +1,7 @@
 [
   {
     "name": "LauncherNoioso",
-    "packageId": "com.noioso.launcher",
+    "packageId": "com.example.launchernoioso",
     "category": "Tools",
     "size": "10 MB",
     "rating": 5.0,
@@ -10,7 +10,7 @@
   },
   {
     "name": "NoiosoShare",
-    "packageId": "com.noioso.share",
+    "packageId": "com.example.noiososhare",
     "category": "Tools",
     "size": "10 MB",
     "rating": 5.0,
