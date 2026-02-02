@@ -8,3 +8,14 @@
     "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoStore-Apps/releases/download/v1.0/LauncherNoioso.zip"
   }
 ]
+
+[
+  {
+    "name": "NoiosoShare",
+    "category": "Tools",
+    "size": "10 MB",
+    "rating": 5.0,
+    "iconUrl": "https://raw.githubusercontent.com/android/platform-frameworks-base/master/core/res/res/drawable-mdpi/sym_def_app_icon.png",
+    "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoStore-Apps/releases/download/v1.0/NoiosoShare.zip"
+  }
+]
