@@ -9,7 +9,7 @@
       "version": "1.0",
       "versionCode": 1,
       "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoOS/releases/download/noiosohome-v1.0/NoiosoHome.apk",
-      "iconUrl": "https://raw.githubusercontent.com/GaM1ngN0tDev/NoiosoStore-Apps/main/icons/NoiosoHome.png"
+      "iconUrl": "https://raw.githubusercontent.com/GaM1ngN0tDev/NoiosoStore-Apps/refs/heads/main/assets/NoiosoLauncher-icon.png"
     },
     {
       "id": "com.noioso.phone",
