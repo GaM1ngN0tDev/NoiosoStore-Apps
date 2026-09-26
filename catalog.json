@@ -1,1 +1,24 @@
-
+{
+  "apps": [
+    {
+      "id": "com.noioso.home",
+      "name": "NoiosoHome",
+      "description": "Minimal black-and-white launcher.",
+      "longDescription": "NoiosoHome replaces your home screen with something intentionally plain: black background, white text, no icons. Core apps (phone, messages, camera, gallery) sit front and center. Everything else is sorted by usefulness instead of the alphabet, so the apps that matter show up first.",
+      "developer": "NoiosoOS",
+      "version": "1.0",
+      "versionCode": 1,
+      "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoOS/releases/download/noiosohome-v1.0/NoiosoHome.apk"
+    },
+    {
+      "id": "com.noioso.phone",
+      "name": "NoiosoPhone",
+      "description": "Dial pad, contacts, call log and an in-call screen.",
+      "longDescription": "A minimal phone app that can be set as your default dialer. Includes a dial pad, contacts with search, recent calls, and a full in-call screen with answer/decline, mute, and speaker controls.",
+      "developer": "NoiosoOS",
+      "version": "1.0",
+      "versionCode": 1,
+      "downloadUrl": "https://github.com/GaM1ngN0tDev/NoiosoOS/releases/download/noiosophone-v1.0/NoiosoPhone.apk"
+    }
+  ]
+}
