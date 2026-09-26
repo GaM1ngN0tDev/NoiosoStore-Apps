@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "id": "com.noioso.home",
+      "id": "com.noioso.noiosohome",
       "name": "NoiosoHome",
       "description": "Minimal black-and-white launcher.",
       "longDescription": "NoiosoHome replaces your home screen with something intentionally plain: black background, white text, no icons. Core apps (phone, messages, camera, gallery) sit front and center. Everything else is sorted by usefulness instead of the alphabet, so the apps that matter show up first.",
@@ -12,7 +12,7 @@
       "iconUrl": "https://raw.githubusercontent.com/GaM1ngN0tDev/NoiosoStore-Apps/refs/heads/main/assets/NoiosoLauncher-icon.png"
     },
     {
-      "id": "com.noioso.phone",
+      "id": "com.noioso.noiosophone",
       "name": "NoiosoPhone",
       "description": "Dial pad, contacts, call log and an in-call screen.",
       "longDescription": "A minimal phone app that can be set as your default dialer. Includes a dial pad, contacts with search, recent calls, and a full in-call screen with answer/decline, mute, and speaker controls.",
