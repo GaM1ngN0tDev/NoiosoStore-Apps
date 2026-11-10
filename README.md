@@ -8,8 +8,8 @@ No server, no account, no tracking — this repo *is* the backend. `catalog.json
 
 ## What's in here
 
-- **`catalog.json`** — the list NoiosoStore fetches to know which apps exist, their latest version, and where to download them.
-- **Releases** *(on the individual app repos, not here)* — each app's actual `.apk` file, published as a GitHub Release.
+- **`catalog.json`**  the list NoiosoStore fetches to know which apps exist, their latest version, and where to download them.
+- **Releases** *(on the individual app repos, not here)* each app's actual `.apk` file, published as a GitHub Release.
 
 If you're looking for the source code of the apps themselves, or of NoiosoStore, head to the [main NoiosoOS repo](https://github.com/GaM1ngN0tDev/NoiosoOS).
 
